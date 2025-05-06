@@ -1,5 +1,4 @@
 # wsaa-assignments
-Web Services and Applications module: Repository for submission of assignemnts, predominatly consisting of three python programs corresponding to each assignment:
 
 ## About This Repo
 
